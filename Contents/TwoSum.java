@@ -1,4 +1,4 @@
-package Contents894div3;
+package Contents;
 public class TwoSum{
 // itsmeAryan template v2.0.0
   public static void main(String[] args){ 

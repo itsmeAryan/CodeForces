@@ -1,4 +1,4 @@
-package Contents894div3;
+package Contents;
 import java.util.Scanner;
 
 public class Vika {

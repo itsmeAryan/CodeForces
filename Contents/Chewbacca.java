@@ -1,4 +1,4 @@
-package Contents894div3;
+package Contents;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

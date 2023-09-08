@@ -1,3 +1,4 @@
+package MAths;
 import java.util.*;
 public class ArraywithOddSum{
 // itsmeAryan template v2.0.0

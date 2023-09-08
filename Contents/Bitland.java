@@ -1,4 +1,4 @@
-package Contents894div3;
+package Contents;
 public class Bitland{
 // itsmeAryan template v2.0.0
   public static void main(String[] args){ 

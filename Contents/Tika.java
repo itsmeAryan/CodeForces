@@ -1,4 +1,4 @@
-package Contents894div3;
+package Contents;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Tika{

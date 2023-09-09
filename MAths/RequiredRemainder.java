@@ -1,3 +1,4 @@
+package MAths;
 import java.util.*;
 
 public class RequiredRemainder {
